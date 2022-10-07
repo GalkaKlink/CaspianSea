@@ -24,4 +24,6 @@ BareGround_vs_Microtopography.R - R script. Compares % of bare ground in microhi
 
 Species_and_Microtopography.R - R script. Using Fisher's exact test, tests the assumption of random distribution of each species 
                                 between microhighs and microlows. 
+                                
+TaxonomicDiversityIndex.R - R script. Calculates the taxonomic distinctness index for a community 
 
