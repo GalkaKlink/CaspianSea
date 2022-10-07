@@ -14,7 +14,7 @@ BareGround_vs_Salinity.R - R sript. Calculates Spaerman correlation between perc
                            and salinity on different depths. 
 
 PlantFeaturesImportance.R - R script. Calculates Fisher's exact test to test the importance of
-                            several plant features for grpwing in the old key site.
+                            several plant features for growing in the old key site.
 
 Association_with_tamarix.R = R script. Calculates Fisher's exact test to test the dependency of each species
                          on the presence of Tamarix bushes.
@@ -26,4 +26,6 @@ Species_and_Microtopography.R - R script. Using Fisher's exact test, tests the a
                                 between microhighs and microlows. 
                                 
 TaxonomicDiversityIndex.R - R script. Calculates the taxonomic distinctness index for a community 
+
+ProbOfLoss_vs_ProjectiveCover.R - R script. Tests the hypothesis that species that were lost and retained in the 'late' site had similar prevalence in the 'early' site
 
